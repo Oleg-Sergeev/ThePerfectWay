@@ -1,0 +1,9 @@
+lastUpgrade=00964
+proj.pluginVersion=0.9.64
+proj.AppId=135471361944
+and.BundleId=com.ZixxanGames.PerfectWay
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e135471361944%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.ZixxanGames.PerfectWay%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Tutorial-man+--%3e%0d%0a++%3cstring+name%3d%22achievement_tutorialman%22+translatable%3d%22false%22%3eCgkImN_j1fgDEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Where+are+the+tips%3f+--%3e%0d%0a++%3cstring+name%3d%22achievement_where_are_the_tips%22+translatable%3d%22false%22%3eCgkImN_j1fgDEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Young+collector+--%3e%0d%0a++%3cstring+name%3d%22achievement_young_collector%22+translatable%3d%22false%22%3eCgkImN_j1fgDEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Starting+small...+--%3e%0d%0a++%3cstring+name%3d%22achievement_starting_small...%22+translatable%3d%22false%22%3eCgkImN_j1fgDEAIQBw%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+High+scores+Arcade+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_scores_arcade%22+translatable%3d%22false%22%3eCgkImN_j1fgDEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+High+scores+Hardcore+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_scores_hardcore%22+translatable%3d%22false%22%3eCgkImN_j1fgDEAIQCA%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=135471361944-sr2i4eco5kd52frnvbb1v4q9o6518snd.apps.googleusercontent.com
+android.SetupDone=true

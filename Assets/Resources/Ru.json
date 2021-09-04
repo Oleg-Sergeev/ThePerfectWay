@@ -1,0 +1,555 @@
+﻿{
+    "items": [
+        {
+            "key": "EmptyText",
+            "value": ""
+        },
+        {
+            "key": "CloudSaveSuccess",
+            "value": "Игра успешно сохранена"
+        },
+        {
+            "key": "CloudSaveError",
+            "value": "Не удалось сохранить игру"
+        },
+        {
+            "key": "CloudLoadSuccess",
+            "value": "Игра успешно загружена"
+        },
+        {
+            "key": "CloudLoadError",
+            "value": "Не удалось загрузить игру"
+        },
+        {
+            "key": "Autosaving",
+            "value": "Автосохранение..."
+        },
+        {
+            "key": "Saving",
+            "value": "Сохранение..."
+        },
+        {
+            "key": "Low",
+            "value": "Низкое"
+        },
+        {
+            "key": "Medium",
+            "value": "Среднее"
+        },
+        {
+            "key": "High",
+            "value": "Высокое"
+        },
+
+        {
+            "key": "Disabled",
+            "value": "Выключены"
+        },
+        {
+            "key": "Important",
+            "value": "Важные"
+        },
+        {
+            "key": "Enabled",
+            "value": "Включены"
+        },
+
+        {
+            "key": "Figure",
+            "value": "КУБ"
+        },
+        {
+            "key": "Trail",
+            "value": "ЛИНИЯ"
+        },
+
+        {
+            "key": "h",
+            "value": "ч"
+        },
+        {
+            "key": "m",
+            "value": "м"
+        },
+
+        {
+            "key": "Arcade",
+            "value": "АРКАДА"
+        },
+        {
+            "key": "Adventure",
+            "value": "ПРИКЛЮЧЕНИЕ"
+        },
+        {
+            "key": "Hardcore",
+            "value": "ХАРДКОР"
+        },
+
+        {
+            "key": "GameModes",
+            "value": "РЕЖИМЫ ИГРЫ"
+        },
+        {
+            "key": "Shop",
+            "value": "МАРКЕТ"
+        },
+        {
+            "key": "BestScore",
+            "value": "Рекорд"
+        },
+
+        {
+            "key": "Help",
+            "value": "ПОМОЩЬ"
+        },
+        {
+            "key": "Control",
+            "value": "Базовое управление"
+        },
+        {
+            "key": "SignalLines",
+            "value": "Сигнальные линии"
+        },
+        {
+            "key": "Danger",
+            "value": "Сигнальная линия <Color=red>опасности</color>. За линией - тупик => ты проиграешь"
+        },
+        {
+            "key": "Warning",
+            "value": "<Color=yellow>Предупреждающая</color> сигнальная линия. На этом пути встречаются некоторые трудности"
+        },
+        {
+            "key": "KeyDoor",
+            "value": "<Color=red>Ключ</color>-<Color=#0f0>дверь</color>. Это путь с \"дверью\", к которой нужен ключ"
+        },
+        {
+            "key": "StartTutorial",
+            "value": "НАЧАТЬ ОБУЧЕНИЕ"
+        },
+
+        {
+            "key": "Gifts",
+            "value": "ПОДАРКИ"
+        },
+
+        {
+            "key": "Use",
+            "value": "Использовать"
+        },
+        {
+            "key": "CommonTicket",
+            "value": "Обычный билет"
+        },
+        {
+            "key": "GoldTicket",
+            "value": "Золотой билет"
+        },
+        {
+            "key": "PerfectTicket",
+            "value": "Идеальный билет"
+        },
+
+        {
+            "key": "Received",
+            "value": "Вы получили"
+        },
+        {
+            "key": "Coins",
+            "value": "монет"
+        },
+        {
+            "key": "Emeralds",
+            "value": "изумрудов"
+        },
+        {
+            "key": "Enter",
+            "value": "Введите бонус код"
+        },
+        {
+            "key": "Success",
+            "value": "Вы успешно ввели бонус код!"
+        },
+        {
+            "key": "Activate",
+            "value": "Активировать"
+        },
+        {
+            "key": "Loading",
+            "value": "Загрузка"
+        },
+
+
+        {
+            "key": "Achievements",
+            "value": "ДОСТИЖЕНИЯ"
+        },
+        {
+            "key": "TutorialMan",
+            "value": "Человек-обучение"
+        },
+        {
+            "key": "TutorialManDescription",
+            "value": "Успешно пройдите обучение"
+        },
+        {
+            "key": "WhereAreTheTips",
+            "value": "А где подсказки?"
+        },
+        {
+            "key": "WhereAreTheTipsDescription",
+            "value": "Пройдите обучение без подсказок"
+        },
+        {
+            "key": "YoungCollector",
+            "value": "Юный собиратель"
+        },
+        {
+            "key": "YoungCollectorDescription",
+            "value": "Соберите  x  монет"
+        },
+        {
+            "key": "StartingSmall",
+            "value": "Начиная с малого..."
+        },
+        {
+            "key": "StartingSmallDescription",
+            "value": "Наберите  x  очков в Аркаде"
+        },
+
+        {
+            "key": "Stats",
+            "value": "СТАТИСТИКА"
+        },
+        {
+            "key": "Gamemodes",
+            "value": "Игровые режимы"
+        },
+        {
+            "key": "BestArcade",
+            "value": "Лучший рекорд Аркады: "
+        },
+        {
+            "key": "BestHardcore",
+            "value": "Лучший рекорд Хардкора: "
+        },
+        {
+            "key": "LevelsCompleted",
+            "value": "Пройдено уровней: "
+        },
+        {
+            "key": "PerfectLevels",
+            "value": "Идеально пройдено: "
+        },
+        {
+            "key": "Time",
+            "value": "Время"
+        },
+        {
+            "key": "TimeArcade",
+            "value": "Время в Аркаде: "
+        },
+        {
+            "key": "TimeHardcore",
+            "value": "Время в Хардкоре: "
+        },
+        {
+            "key": "TimeAdventure",
+            "value": "Время в Приключении: "
+        },
+        {
+            "key": "AllTime",
+            "value": "Общее время: "
+        },
+        {
+            "key": "Other",
+            "value": "Другое"
+        },
+        {
+            "key": "CoinsCollected",
+            "value": "Собрано монет: "
+        },
+        {
+            "key": "EmeraldsCollected",
+            "value": "Собрано изумрудов: "
+        },
+        {
+            "key": "SkinsUnlocked",
+            "value": "Открыто скинов: "
+        },
+        {
+            "key": "BackgroundsUnlocked",
+            "value": "Открыто задних фонов: "
+        },
+        {
+            "key": "FavoriteMode",
+            "value": "Любимый режим: "
+        },
+        {
+            "key": "TotalDistance",
+            "value": "Общее расстояние: "
+        },
+
+        {
+            "key": "Settings",
+            "value": "НАСТРОЙКИ"
+        },
+        {
+            "key": "Notifications",
+            "value": "Уведомления"
+        },
+        {
+            "key": "Quality",
+            "value": "Качество"
+        },
+
+        {
+            "key": "Community",
+            "value": "Сообщества"
+        },
+        {
+            "key": "Support",
+            "value": "Поддержка"
+        },
+
+        {
+            "key": "Info",
+            "value": "ИНФОРМАЦИЯ"
+        },
+        {
+            "key": "PrivacyPolicy",
+            "value": "Политика конфедециальности"
+        },
+        {
+            "key": "AboutGame",
+            "value": "Об игре"
+        },
+
+        {
+            "key": "Store",
+            "value": "МАГАЗИН"
+        },
+        {
+            "key": "Equals",
+            "value": "<color=#0f0>1 изумруд</color> = <color=yellow>15 монет</color>"
+        },
+        {
+            "key": "Confirm",
+            "value": "Подтвердить"
+        },
+
+        {
+            "key": "Custom",
+            "value": "КАСТОМИЗАЦИЯ"
+        },
+        {
+            "key": "Buy",
+            "value": "Купить"
+        },
+        {
+            "key": "PaletteLocked",
+            "value": "Палитра цветов заблокирована. Чтобы открыть - заплатите <color=#0f0>500 изумрудов</color> и <color=yellow>1000 монет</color>"
+        },
+        {
+            "key": "TheTutorial",
+            "value": "Вы не прошли Обучение. Желаете ли вы пройти его?   <color=red>Вы не получите награду, если не пройдете Обучение</color>"
+        },
+
+        {
+            "key": "Boosts",
+            "value": "УСИЛЕНИЯ"
+        },
+        {
+            "key": "Upgrades",
+            "value": "Улучшения"
+        },
+        {
+            "key": "PowerUps",
+            "value": "Усилители"
+        },
+        {
+            "key": "Amount",
+            "value": "Кол-во"
+        },
+        {
+            "key": "Upgrade",
+            "value": "Улучшить"
+        },
+        {
+            "key": "Jump",
+            "value": "Сила веры"
+        },
+        {
+            "key": "JumpDescription",
+            "value": "Придает фигуре неистовую силу: она взлетает, но ненадолго"
+        },
+        {
+            "key": "Armor",
+            "value": "Броня"
+        },
+        {
+            "key": "ArmorDescription",
+            "value": "Увеличьте время действия брони"
+        },
+        {
+            "key": "TimeSlowing",
+            "value": "Замедление времени"
+        },
+        {
+            "key": "TimeSlowingDescription",
+            "value": "Увеличьте время действия замедления"
+        },
+        {
+            "key": "TimeAcceleration",
+            "value": "Ускорение времени"
+        },
+        {
+            "key": "TimeAccelerationDescription",
+            "value": "Увеличьте время действия ускорения"
+        },
+        {
+            "key": "ScoreModifier",
+            "value": "Модификатор очков"
+        },
+        {
+            "key": "ScoreModifierDescription",
+            "value": "Увеличьте время действия модификатора"
+        },
+
+
+
+        {
+            "key": "StartGame",
+            "value": "Нажмите, чтобы начать игру"
+        },
+        {
+            "key": "UsedArmor",
+            "value": "Вы потеряли свою броню. Следующее стоклновение может стать последним для вас"
+        },
+        {
+            "key": "Score",
+            "value": "Счет:"
+        },
+        {
+            "key": "Best",
+            "value": "Рекорд:"
+        },
+        {
+            "key": "Pause",
+            "value": "ПАУЗА"
+        },
+        {
+            "key": "Lost",
+            "value": "Вы проиграли"
+        },
+        {
+            "key": "Collected",
+            "value": "Собрано: "
+        },
+        {
+            "key": "ContinueGame",
+            "value": "ПРОДОЛЖИТЬ ИГРУ?"
+        },
+        {
+            "key": "Skip",
+            "value": "ПРОПУСТИТЬ"
+        },
+
+
+
+        {
+            "key": "Levels",
+            "value": "Уровни"
+        },
+        {
+            "key": "Level",
+            "value": "Уровень "
+        },
+        {
+            "key": "LevelCompleted",
+            "value": "Уровень пройден"
+        },
+        {
+            "key": "AllCoinsCollected",
+            "value": "Все монеты собраны"
+        },
+        {
+            "key": "StarCollected",
+            "value": "Звезда собрана"
+        },
+        {
+            "key": "Completed",
+            "value": " пройден"
+        },
+        {
+            "key": "BonusCode",
+            "value": "Ты нашел секретный путь! В конце ты нашел бонус код:\n<color=red>РУССКИЙЯЗЫК</color>\n Введи его в разделе \"Подарки\""
+        },
+
+
+
+        {
+            "key": "Tutorial",
+            "value": "Обучение"
+        },
+        {
+            "key": "TutorialIntro",
+            "value": "Добро пожаловать в Perfect Way \n Это Обучение. Здесь вы изучите основы игры. \n \nНажмите, чтобы начать Обучение."
+        },
+        {
+            "key": "YourCoins",
+            "value": "Ваши монеты"
+        },
+        {
+            "key": "YourEmeralds",
+            "value": "Ваши изумруды"
+        },
+        {
+            "key": "BS",
+            "value": "Лучший рекорд в Аркаде/Хардкоре"
+        },
+        {
+            "key": "CS",
+            "value": "Текущий счет в Аркаде/Хардкоре"
+        },
+        {
+            "key": "Start_tutorial",
+            "value": "Начать обучение"
+        },
+        {
+            "key": "Tip(1)",
+            "value": "Почти все игровые режимы имеют простое и удобное управление - касание. Только Хардкор имеет другое управление, но об этом в другом обучении."
+        },
+        {
+            "key": "Tip(2)",
+            "value": "В игре есть три вида сигнальных линий: сигнальная линия <color=red>опасности</color>, <color=yellow>Предупреждающая</color> линия, <color=red>Ключ</color>-<color=#0f0>дверь</color>. Они показывают, какой путь вас ждет. Сейчас перед вами сигнальная линия <color=red>опасности</color>. Она означает, что путь имеет только тупик. Не идите туда! Вы должны свернуть на другой путь!"
+        },
+        {
+            "key": "Tip(3)",
+            "value": "Вы встретили 2ой вид сигнальных линий – <color=yellow>Предупржедающая</color> сигнальная линия.\nОна показывает,что на пути есть некоторая сложность:\n<color=cyan>трамплин</color>, узкий путь и т.д."
+        },
+        {
+            "key": "Tip(4)",
+            "value": "На пути вы можете встретить <color=#0F0>бустеры</color> с <color=cyan>трамплином</color>. Обычно такой путь помечен <color=yellow>предупреждающей</color> линией."
+        },
+        {
+            "key": "Tip(5)",
+            "value": "Вы встретили последний вид линий – <color=red>Ключ</color>-<color=#0F0>дверь</color>\nЭтот сигнал показывает, что на пути есть \"дверь\" – стена, к которой нужен \"ключ\", чтобы открыть ее"
+        },
+        {
+            "key": "Tip(6)",
+            "value": "В игре есть разные виды бонусов. В Обучении находится <color=red>Замедление времени</color>. На данный момент есть 4 бонуса: <color=red>Замедление времени</color>, <color=#0F0>Ускорение времени</color>, <color=#F90>х2 множитель счета</color>, <color=#C0F>броня</color>"
+        },
+        {
+            "key": "Warning_",
+            "value": "Вы должны изменить направление движения, иначе вы столкнетесь со стеной"
+        },
+        {
+            "key": "ChangeDirection",
+            "value": "Нажмите, чтобы изменить направление"
+        },
+        {
+            "key": "Win",
+            "value": "ВЫ УСПЕШНО ПРОШЛИ ОБУЧЕНИЕ"
+        }
+    ]
+}

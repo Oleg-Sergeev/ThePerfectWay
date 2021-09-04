@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lose
+  - Win
+  - GreenWall
+  - key
+  - Booster
+  - CheckPoint
+  - _Trigger
+  - TutorialWall
+  - TutorialLose
+  - Trigger
+  - Trigger_
+  - _Music
+  - _Sound
+  - LoadLevel
+  - Barrier
+  - Teleport
+  - TurningRightTrigger_1_2
+  - TurningRightTrigger_3_4_5
+  - TurningForwardTrigger_3
+  - TurningForwardTrigger_4
+  - TurningRightTrigger_5
+  - SpeedMagnifer
+  - SpringBoard
+  - Coin
+  - Emerald
+  - Audio
+  - SecretWin
+  - TextStats
+  - Jump
+  - Tip
+  - OtherText
+  - Sound
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Touch
+  - Trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,83 @@
+{
+    "soundVolume": 0.5,
+    "musicVolume": 0.5,
+    "totalDistance": 0.0,
+    "coin": 0,
+    "emerald": 0,
+    "coinsCollected": 0,
+    "emeraldsCollected": 0,
+    "currentLevel": 0,
+    "completedLevel": 0,
+    "BestScore": 0,
+    "BestScore_Hardcore": 0,
+    "giftDays": 1,
+    "gameMode": "ARCADE",
+    "language": "Ru",
+    "quality": "Medium",
+    "name_FigureOrTrail": "",
+    "notify": "Important",
+    "IsTutorialPassed": false,
+    "IsPayed": false,
+    "IsBonusCodesEntered": [],
+    "colorbttnMusic": {
+        "r": 0.0,
+        "g": 0.66,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "colorbttnSound": {
+        "r": 0.0,
+        "g": 0.66,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "colorFigure": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "colorTrail": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "levels": [],
+    "times": [
+        {
+            "key": "menu",
+            "value": "0"
+        },
+        {
+            "key": "arcade",
+            "value": "0"
+        },
+        {
+            "key": "hardcore",
+            "value": "0"
+        },
+        {
+            "key": "adventure",
+            "value": "0"
+        },
+        {
+            "key": "lastMenu",
+            "value": "0"
+        },
+        {
+            "key": "lastArcade",
+            "value": "0"
+        },
+        {
+            "key": "lastHardcore",
+            "value": "0"
+        },
+        {
+            "key": "lastAdventure",
+            "value": "0"
+        }
+    ],
+    "boosts": [],
+    "tickets": []
+}

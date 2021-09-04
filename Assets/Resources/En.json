@@ -1,0 +1,555 @@
+﻿{
+    "items": [
+        {
+            "key": "EmptyText",
+            "value": ""
+        },
+        {
+            "key": "CloudSaveSuccess",
+            "value": "Game was saved successfully"
+        },
+        {
+            "key": "CloudSaveError",
+            "value": "Couldn't save game"
+        },
+        {
+            "key": "CloudLoadSuccess",
+            "value": "Game was loaded successfully"
+        },
+        {
+            "key": "CloudLoadError",
+            "value": "Couldn't load game"
+        },
+        {
+            "key": "Autosaving",
+            "value": "Autosaving..."
+        },
+        {
+            "key": "Saving",
+            "value": "Saving..."
+        },
+        {
+            "key": "Low",
+            "value": "Low"
+        },
+        {
+            "key": "Medium",
+            "value": "Medium"
+        },
+        {
+            "key": "High",
+            "value": "High"
+        },
+
+        {
+            "key": "Disabled",
+            "value": "Disabled"
+        },
+        {
+            "key": "Important",
+            "value": "Important"
+        },
+        {
+            "key": "Enabled",
+            "value": "Enabled"
+        },
+
+        {
+            "key": "Figure",
+            "value": "CUBE"
+        },
+        {
+            "key": "Trail",
+            "value": "LINE"
+        },
+
+        {
+            "key": "h",
+            "value": "h"
+        },
+        {
+            "key": "m",
+            "value": "m"
+        },
+
+        {
+            "key": "Arcade",
+            "value": "ARCADE"
+        },
+        {
+            "key": "Adventure",
+            "value": "ADVENTURE"
+        },
+        {
+            "key": "Hardcore",
+            "value": "HARDCORE"
+        },
+
+        {
+            "key": "GameModes",
+            "value": "GAME MODES"
+        },
+        {
+            "key": "Shop",
+            "value": "SHOP"
+        },
+        {
+            "key": "BestScore",
+            "value": "Best Score"
+        },
+
+        {
+            "key": "Help",
+            "value": "HELP"
+        },
+        {
+            "key": "Control",
+            "value": "Base control"
+        },
+        {
+            "key": "SignalLines",
+            "value": "Signal Lines"
+        },
+        {
+            "key": "Danger",
+            "value": "<Color=red>Danger</color> signal line. This way – impasse => you will lose"
+        },
+        {
+            "key": "Warning",
+            "value": "<Color=yellow>Warning</color> signal line. This way is little difficult"
+        },
+        {
+            "key": "KeyDoor",
+            "value": "<Color=red>Key</color>-<Color=#0f0>door</color> signal line. There is a door on way which requires a key"
+        },
+        {
+            "key": "StartTutorial",
+            "value": "START TUTORIAL"
+        },
+
+        {
+            "key": "Gifts",
+            "value": "GIFTS"
+        },
+
+        {
+            "key": "Use",
+            "value": "Use"
+        },
+        {
+            "key": "CommonTicket",
+            "value": "Common ticket"
+        },
+        {
+            "key": "GoldTicket",
+            "value": "Gold ticket"
+        },
+        {
+            "key": "PerfectTicket",
+            "value": "Perfect ticket"
+        },
+
+        {
+            "key": "Received",
+            "value": "You have received:"
+        },
+        {
+            "key": "Coins",
+            "value": "coins"
+        },
+        {
+            "key": "Emeralds",
+            "value": "emeralds"
+        },
+        {
+            "key": "Enter",
+            "value": "Enter a bonus code"
+        },
+        {
+            "key": "Success",
+            "value": "You have successfully entered bonus code!"
+        },
+        {
+            "key": "Activate",
+            "value": "Activate"
+        },
+        {
+            "key": "Loading",
+            "value": "Loading"
+        },
+
+        {
+            "key": "Achievements",
+            "value": "ACHIEVEMENTS"
+        },
+        {
+            "key": "TutorialMan",
+            "value": "Tutorial-man"
+        },
+        {
+            "key": "TutorialManDescription",
+            "value": "Successfully complete the Tutorial"
+        },
+        {
+            "key": "WhereAreTheTips",
+            "value": "Where are the tips?"
+        },
+        {
+            "key": "WhereAreTheTipsDescription",
+            "value": "Complete tutorial without tips"
+        },
+        {
+            "key": "YoungCollector",
+            "value": "Young collector"
+        },
+        {
+            "key": "YoungCollectorDescription",
+            "value": "Collect  x  coins"
+        },
+        {
+            "key": "StartingSmall",
+            "value": "Starting small..."
+        },
+        {
+            "key": "StartingSmallDescription",
+            "value": "Score  x  points"
+        },
+
+        {
+            "key": "Stats",
+            "value": "STATS"
+        },
+        {
+            "key": "Gamemodes",
+            "value": "Game modes"
+        },
+        {
+            "key": "BestArcade",
+            "value": "Best score Arcade: "
+        },
+        {
+            "key": "BestHardcore",
+            "value": "Best score Hardcore: "
+        },
+        {
+            "key": "LevelsCompleted",
+            "value": "Levels completed: "
+        },
+        {
+            "key": "PerfectLevels",
+            "value": "Levels completed perfectly: "
+        },
+        {
+            "key": "Time",
+            "value": "Time"
+        },
+        {
+            "key": "TimeArcade",
+            "value": "Time in Arcade: "
+        },
+        {
+            "key": "TimeHardcore",
+            "value": "Time in Hardcore: "
+        },
+        {
+            "key": "TimeAdventure",
+            "value": "Time in Adventure: "
+        },
+        {
+            "key": "AllTime",
+            "value": "All time: "
+        },
+        {
+            "key": "Other",
+            "value": "Other"
+        },
+        {
+            "key": "CoinsCollected",
+            "value": "Coins collected: "
+        },
+        {
+            "key": "EmeraldsCollected",
+            "value": "Emeralds collected: "
+        },
+        {
+            "key": "SkinsUnlocked",
+            "value": "Skins unlocked: "
+        },
+        {
+            "key": "BackgroundsUnlocked",
+            "value": "Backgrounds unlocked: "
+        },
+        {
+            "key": "FavoriteMode",
+            "value": "Favorite mode: "
+        },
+        {
+            "key": "TotalDistance",
+            "value": "Total distance: "
+        },
+
+        {
+            "key": "Settings",
+            "value": "SETTINGS"
+        },
+        {
+            "key": "Notifications",
+            "value": "Notifications"
+        },
+        {
+            "key": "Quality",
+            "value": "Quality"
+        },
+
+        {
+            "key": "Community",
+            "value": "COMMUNITY"
+        },
+        {
+            "key": "Support",
+            "value": "Support"
+        },
+
+        {
+            "key": "Info",
+            "value": "INFORMATION"
+        },
+        {
+            "key": "PrivacyPolicy",
+            "value": "Privacy policy"
+        },
+        {
+            "key": "AboutGame",
+            "value": "About game"
+        },
+
+        {
+            "key": "Store",
+            "value": "STORE"
+        },
+        {
+            "key": "Equals",
+            "value": "<color=#0f0>1 Emerald</color> = <color=yellow>15Coins</color>"
+        },
+        {
+            "key": "Confirm",
+            "value": "Confirm"
+        },
+
+        {
+            "key": "Custom",
+            "value": "CUSTOMIZATION"
+        },
+        {
+            "key": "Buy",
+            "value": "Buy"
+        },
+
+        {
+            "key": "PaletteLocked",
+            "value": "Color palette is locked. To open pay<color=#0f0>500 emeralds</color> and <color=yellow>1000 coins</color>"
+        },
+        {
+            "key": "TheTutorial",
+            "value": "You did not pass the Tutorial. Would you like to pass it? <color=red>You will not get a reward if you do not complete Tutorial </color>"
+        },
+
+
+        {
+            "key": "Boosts",
+            "value": "BOOSTS"
+        },
+        {
+            "key": "Upgrades",
+            "value": "Upgrades"
+        },
+        {
+            "key": "PowerUps",
+            "value": "Power-Ups"
+        },
+        {
+            "key": "Amount",
+            "value": "Amount:"
+        },
+        {
+            "key": "Upgrade",
+            "value": "Upgrade"
+        },
+        {
+            "key": "Jump",
+            "value": "The power of faith"
+        },
+        {
+            "key": "JumpDescription",
+            "value": "It gives the figure a frantic power: it takes off, but not for long"
+        },
+        {
+            "key": "Armor",
+            "value": "Armor"
+        },
+        {
+            "key": "ArmorDescription",
+            "value": "Increase armor time"
+        },
+        {
+            "key": "TimeSlowing",
+            "value": "TimeSlowing"
+        },
+        {
+            "key": "TimeSlowingDescription",
+            "value": "Increase slowing time"
+        },
+        {
+            "key": "TimeAcceleration",
+            "value": "Time acceleration"
+        },
+        {
+            "key": "TimeAccelerationDescription",
+            "value": "Increase accelerating time"
+        },
+        {
+            "key": "ScoreModifier",
+            "value": "ScoreModifier"
+        },
+        {
+            "key": "ScoreModifierDescription",
+            "value": "Increase modifier time"
+        },
+
+
+        {
+            "key": "StartGame",
+            "value": "Tap to start game"
+        },
+        {
+            "key": "UsedArmor",
+            "value": "You have lost the armor. Next collision may be last for you."
+        },
+        {
+            "key": "Score",
+            "value": "Score"
+        },
+        {
+            "key": "Best",
+            "value": "Record:"
+        },
+        {
+            "key": "Pause",
+            "value": "PAUSE"
+        },
+        {
+            "key": "Lost",
+            "value": "You lost"
+        },
+        {
+            "key": "Collected",
+            "value": "Collected: "
+        },
+        {
+            "key": "ContinueGame",
+            "value": "CONTINUE GAME?"
+        },
+        {
+            "key": "Skip",
+            "value": "SKIP"
+        },
+
+
+
+        {
+            "key": "Levels",
+            "value": "Levels"
+        },
+        {
+            "key": "Level",
+            "value": "Level "
+        },
+        {
+            "key": "LevelCompleted",
+            "value": "Level completed"
+        },
+        {
+            "key": "AllCoinsCollected",
+            "value": "All coins collected"
+        },
+        {
+            "key": "StarCollected",
+            "value": "Star collected"
+        },
+        {
+            "key": "Completed",
+            "value": " completed"
+        },
+        {
+            "key": "BonusCode",
+            "value": "You found a secret way! At the end you found a bonus code:\n<color=red>РУССКИЙЯЗЫК</color>\n Enter it in section \"GIft\""
+        },
+
+
+
+        {
+            "key": "Tutorial",
+            "value": "Tutorial"
+        },
+        {
+            "key": "TutorialIntro",
+            "value": "Welcome to Perfect Way\n This is Tutorial. Here you will learn basics of game.\n \nTap to start the Tutorial"
+        },
+        {
+            "key": "YourCoins",
+            "value": "Your coins"
+        },
+        {
+            "key": "YourEmeralds",
+            "value": "Your emeralds"
+        },
+        {
+            "key": "BS",
+            "value": "Best score in Arcade/Hardcore"
+        },
+        {
+            "key": "CS",
+            "value": "Current score in Arcade/Hardcore"
+        },
+        {
+            "key": "Start_tutorial",
+            "value": "Start tutorial"
+        },
+        {
+            "key": "Tip(1)",
+            "value": "Almost all game modes have simple and easy control - touch. Only Hardcore has a different control, but more about that in another tutorial."
+        },
+        {
+            "key": "Tip(2)",
+            "value": " The game has three kinds of signal lines: <color=red>Danger</color>, <color=yellow>Warning</color>, <color=red>Door</color>-<color=#0f0>signal</color>. They show the what the way is waiting for you. Now you have a <color=red>danger</color> signal line. It means that a way has only impasse. Do not go there! You must turn another way."
+        },
+        {
+            "key": "Tip(3)",
+            "value": "You have met the 2nd kind of signal lines – <color=yellow>Warning</color> signal.\nIt shows that on the way will any difficult:\n<color=cyan>springboard</color>, narrow way, etc."
+        },
+        {
+            "key": "Tip(4)",
+            "value": "On the way you can meet <color=#0F0>boosters</color> with <color=cyan>springboard</color>. Usually this way is marked with a <color=yellow>warning</color> signal."
+        },
+        {
+            "key": "Tip(5)",
+            "value": "\"You can see last type of signal lines – <color=red>Key</color>-<color=#0F0>Door</color>\nThis signal shows that there is \"door\" in front – wall which requires a key to be opened\""
+        },
+        {
+            "key": "Tip(6)",
+            "value": "The game has different bonuses. There is <color=red>Time slowing</color> in the tutorial. At the moment there are 4 bonuses: <color=red>Time slowing</color>, <color=#0F0>Time acceleration</color>, <color=#F90>x2 score</color>, <color=#C0F>armor</color>"
+        },
+        {
+            "key": "Warning_",
+            "value": "You must change your direction of movement otherwise you will bump into the wall"
+        },
+        {
+            "key": "ChangeDirection",
+            "value": "Tap to change direction"
+        },
+        {
+            "key": "Win",
+            "value": "YOU HAVE SUCCESSFULLY COMPLETED THE TUTORIAL"
+        }
+    ]
+}
